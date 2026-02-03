@@ -5,14 +5,8 @@
     "source": "ப்ரம்மாண்ட புராணம் (Brahmanda Purana)",
     "total_pages": 35,
     "total_names": 1000,
-    "language": ["தமிழ் (Tamil)", "ஸம்ஸ்க்ருதம் (Sanskrit transliteration in Tamil)"],
-    "contact": {
-      "email": "nagraj562001@gmail.com",
-      "whatsapp": "9380521456",
-      "note": "For corrections/suggestions"
-    },
-    "audio_link": "https://drive.google.com/file/d/1rIIqcgskS4M2BEyE4Ee1L-maVZn5vcYg/view?usp=sharing",
-    "additional_resources": "https://sanskritdocuments.org/sanskrit/lalita/"
+    "language": ["தமிழ் (Tamil)", "ஸம்ஸ்க்ருதம் (Sanskrit transliteration in Tamil)"], 
+
   },
 
   "pronunciation_guide": {
@@ -43,13 +37,7 @@
       {"color": "கருப்பு", "sanskrit": "स", "tamil": "ஸ", "example": "ஸரஸ்வதி"},
       {"color": "சிவப்பு", "sanskrit": "श", "tamil": "ச", "example": "சுபம்/சிவம்"},
       {"color": "பழுப்பு", "sanskrit": "ष", "tamil": "ஷ", "example": ""}
-    ],
-    "special_characters": {
-      "anusvara": "ं (ஂ)",
-      "visarga": "ः (ஃ)",
-      "vowel_signs": ["ा (ா)", "ि (ி)", "ी (ீ)", "ु (ு)", "ू (ூ)", "ृ (்ரு)", "े (ே)", "ै (ை)", "ो (ோ)", "ौ (ௌ)"]
-    },
-    "formatting_note": "ஸ்தோத்ர வரிகள் பாராயணம் செய்வதற்கு வசதியாக இரண்டு பக்கங்களுக்கு இடையே சிக்கிக் கொள்ளாமலும், பதம் பிரித்தும் அமைக்கப்பட்டுள்ளன."
+    ],   
   },
 
   "nyasam": {
